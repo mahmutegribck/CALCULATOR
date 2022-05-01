@@ -1,0 +1,12 @@
+C:\Users\Mahmut1\Desktop\CALCULATOR\bin\Debug\CALCULATOR.exe.config
+C:\Users\Mahmut1\Desktop\CALCULATOR\bin\Debug\CALCULATOR.exe
+C:\Users\Mahmut1\Desktop\CALCULATOR\bin\Debug\CALCULATOR.pdb
+C:\Users\Mahmut1\Desktop\CALCULATOR\bin\Debug\CALCULATOR.xml
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.vbproj.AssemblyReference.cache
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.Form1.resources
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.Resources.resources
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.vbproj.GenerateResource.cache
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.vbproj.CoreCompileInputs.cache
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.exe
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.xml
+C:\Users\Mahmut1\Desktop\CALCULATOR\obj\Debug\CALCULATOR.pdb
